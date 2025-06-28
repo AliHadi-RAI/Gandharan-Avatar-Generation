@@ -6,9 +6,7 @@ The **Gandhara Project** implements a Python‑based “wrap‑up” agent that 
 📂 Project Structure
 
 - **Gandhara_Project.ipynb**  
-  The main Colab notebook containing all code, examples, and step‑by‑step instructions.  
-- **config.yaml**  
-  Style and tone settings (e.g. pacing, historical references, language richness).  
+  The main Colab notebook containing all code, examples, and step‑by‑step instructions.    
 - **requirements.txt**  
   List of Python dependencies required to run the notebook.  
 - **scripts/**  

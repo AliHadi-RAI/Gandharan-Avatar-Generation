@@ -1,0 +1,19 @@
+# Core AI/agent packages
+crewai
+crewai-tools
+
+# OpenAI API (for GPT-4 and DALL·E integration)
+openai
+
+# Data validation
+pydantic
+
+# Additional standard libraries (do not need pip install):
+# - os
+# - json
+# - uuid
+# - typing
+
+# Note:
+# - Ensure you have an OpenAI API key set in your environment as 'OPENAI_API_KEY'.
+# - This requirements file does not include Jupyter or IPython packages.
